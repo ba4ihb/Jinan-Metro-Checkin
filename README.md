@@ -10,14 +10,9 @@
 [![Android](https://img.shields.io/badge/Android-26%2B-brightgreen.svg?style=for-the-badge&logo=android)](https://www.android.com)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org)
 [![Gradle](https://img.shields.io/badge/Gradle-8.9-green.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)
-[![GitHub release](https://img.shields.io/github/v/release/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge)](https://github.com/ba4ihb/Jinan-Metro-Checkin/releases)
 
 <br/>
 
-<img src="https://img.shields.io/github/languages/top/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge&logo=android&logoColor=white" alt="Top Language" />
-<img src="https://img.shields.io/github/languages/count/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge" alt="Language Count" />
-<img src="https://img.shields.io/github/languages/code-size/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge" alt="Code Size" />
-<br/>
 <img src="https://img.shields.io/badge/Java-100%25-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 100%" />
 <img src="https://img.shields.io/badge/Languages-1-blue?style=for-the-badge" alt="Languages 1" />
 <img src="https://img.shields.io/badge/Code%20Size-135%20K-lightgrey?style=for-the-badge" alt="Code Size 135K" />
