@@ -2,17 +2,14 @@
 
 # 泉城轨迹 QuanchenTrail
 
-### 济南轨道交通打卡 Agent
+### 济南轨道交通打卡 App
 
 **把泉城的每一站，走成自己的轨迹**
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-26%2B-brightgreen.svg?style=for-the-badge&logo=android)](https://www.android.com)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org)
-[![Gradle](https://img.shields.io/badge/Gradle-8.9-green.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)
-
-<br/>
-
+[![Gradle](https://img.shields.io/badge/Gradle-8.9-green.svg?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)<br/>
 <img src="https://img.shields.io/badge/Java-100%25-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 100%" />
 <img src="https://img.shields.io/badge/Languages-1-blue?style=for-the-badge" alt="Languages 1" />
 <img src="https://img.shields.io/badge/Code%20Size-135%20K-lightgrey?style=for-the-badge" alt="Code Size 135K" />
@@ -38,7 +35,7 @@
 
 ## About 关于
 
-**泉城轨迹（QuanchenTrail）** 是一款开源的 Android 原生应用，为济南城市轨道交通量身打造的"打卡 Agent"。
+**泉城轨迹（QuanchenTrail）** 是一款开源的 Android 原生应用，为济南城市轨道交通量身打造的打卡 App。
 
 济南的轨道交通由**地铁**（1/2/3/4/6/8 号线等）、**济阳线**、**云巴 1 号线**三种制式共同组成，运营主体、时刻表、站点命名各有差异。泉城轨迹把它们统一进同一套打卡判定逻辑里：当你走进某个车站的**打卡半径**（默认 100 m，可在 50–500 m 间调整），App 会自动评估最近的几个车站、周边地标、换乘信息，然后以**页面内卡片**的方式请你确认打卡——不是弹窗，不是重复入口，就是一张卡片。
 
@@ -167,7 +164,7 @@
 Jinan-Metro-Checkin/
 ├── app/src/main/java/com/jnsub/quanchentrail/
 │   ├── MainActivity.java          # 主入口、定位与页面调度
-│   ├── agent/CheckinAgent.java    # 打卡判定 Agent 协议
+│   ├── agent/CheckinAgent.java    # 打卡判定逻辑
 │   ├── data/AppDb.java            # SQLite 数据与成就判定
 │   ├── ui/                        # Fragment / Adapter / 布局逻辑
 │   └── ...
