@@ -4,9 +4,9 @@
 
 **济南轨道交通打卡 Agent** · 让每一次到站，都留下泉城的痕迹
 
-<img src="https://img.shields.io/github/languages/top/ba4ihb/QuanchenTrail?style=for-the-badge&logo=android&logoColor=white" alt="Top Language" />
-<img src="https://img.shields.io/github/languages/count/ba4ihb/QuanchenTrail?style=for-the-badge" alt="Language Count" />
-<img src="https://img.shields.io/github/languages/code-size/ba4ihb/QuanchenTrail?style=for-the-badge" alt="Code Size" />
+<img src="https://img.shields.io/github/languages/top/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge&logo=android&logoColor=white" alt="Top Language" />
+<img src="https://img.shields.io/github/languages/count/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge" alt="Language Count" />
+<img src="https://img.shields.io/github/languages/code-size/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge" alt="Code Size" />
 <br/>
 <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License" />
 <img src="https://img.shields.io/badge/API-26%2B-brightgreen?style=for-the-badge&logo=android" alt="Min API" />
@@ -22,14 +22,23 @@
 
 ---
 
-## 简介
+## About 关于
 
-泉城轨迹（QuanchenTrail）是一款 Android 原生应用，把济南地铁、济阳线、云巴三条轨道交通线网整合进一次打卡体验里。当你走进某个车站的打卡范围，App 会自动评估最近车站、周边看点、换乘信息，并以**页面内卡片**（而非弹窗）的方式请你确认打卡，逐步点亮属于你的"泉城轨迹"。
+**泉城轨迹（QuanchenTrail）** 是一款开源的 Android 原生应用，为济南城市轨道交通量身打造的"打卡 Agent"。
 
-- **统一判定**：地铁、济阳线、云巴共用同一套 `CheckinAgent` 半径判定（默认 100 m，可调 50–500 m）
+济南的轨道交通由**地铁**（1/2/3/4/6/8 号线等）、**济阳线**、**云巴 1 号线**三种制式共同组成，运营主体、时刻表、站点命名各有差异。泉城轨迹把它们统一进同一套打卡判定逻辑里：当你走进某个车站的**打卡半径**（默认 100 m，可在 50–500 m 间调整），App 会自动评估最近的几个车站、周边地标、换乘信息，然后以**页面内卡片**的方式请你确认打卡——不是弹窗，不是重复入口，就是一张卡片。
+
+打卡不是终点。每一次到站都会写入本地数据库，逐步点亮你的**成就图鉴**——完成某条线路的全部车站、打卡全部换乘枢纽、真正乘坐过全部三种制式……成就系统会诚实地记录你的脚步，不会因为一次换乘站打卡就"误以为"你坐过了从没坐过的线路。
+
+- **统一判定**：地铁、济阳线、云巴共用同一套 `CheckinAgent` 半径判定
 - **换乘联动**：在换乘站打卡会原子写入所有关联线路的打卡记录
-- **成就图鉴**：线路进度、换乘枢纽、多制式通行等多维度成就
-- **纯本地**：不联网、不上传，定位与照片仅存本机
+- **多站同范围**：同时处于多个车站半径内时，每站各出一张卡片，UI 完全一致
+- **成就图鉴**：线路进度、换乘枢纽、多制式通行等多维度成就，判定严谨
+- **纯本地**：不联网、不上传，定位与照片仅存本机，保护隐私
+
+<div align="center">
+<sub>开源协议 Apache 2.0 · 用 ❤️ 打卡济南的每一天</sub>
+</div>
 
 ---
 
@@ -56,6 +65,43 @@
 - 通知提醒：进入车站范围自动发送系统通知，点击直接跳到卡片
 - 关于页：版本、构建号、权限状态、打卡半径滑杆、隐私说明、清除记录
 - 开发者测试（仅 Debug）：模拟定位、模拟打卡、状态栏消息测试
+
+---
+
+## 应用截图
+
+<div align="center">
+
+### 多站同范围打卡
+<img src="docs/screenshots/app-checkin-multicard.png" alt="多站同范围打卡卡片" width="320" />
+<br/>
+<sub>同时处于多个车站打卡半径内时，每站各出一张卡片，UI 结构完全一致</sub>
+
+<br/>
+<br/>
+
+### 线路时刻表
+<img src="docs/screenshots/app-lines.png" alt="线路时刻表" width="320" />
+<br/>
+<sub>首末班车按方向分条显示，与官方时刻表原图一致</sub>
+
+<br/>
+<br/>
+
+### 成就图鉴
+<img src="docs/screenshots/app-achievements.png" alt="成就图鉴" width="320" />
+<br/>
+<sub>线路进度、换乘枢纽、多制式通行等多维度成就，点击可查看详细进度</sub>
+
+<br/>
+<br/>
+
+### 关于与设置
+<img src="docs/screenshots/app-about.png" alt="关于与设置" width="320" />
+<br/>
+<sub>版本信息、权限状态、打卡半径调整、隐私说明</sub>
+
+</div>
 
 ---
 
@@ -104,7 +150,7 @@
 ## 项目结构
 
 ```
-QuanchenTrail/
+Jinan-Metro-Checkin/
 ├── app/src/main/java/com/jnsub/quanchentrail/
 │   ├── MainActivity.java          # 主入口、定位与页面调度
 │   ├── agent/CheckinAgent.java    # 打卡判定 Agent 协议
@@ -114,6 +160,7 @@ QuanchenTrail/
 ├── app/src/main/res/layout/       # 界面布局
 ├── app/src/main/assets/           # 线路、车站、成就、POI 数据
 ├── docs/timetable-source/         # 时刻表原图
+├── docs/screenshots/              # 应用截图
 ├── HANDOVER.md                    # 完整技术交接文档
 └── README.md
 ```
@@ -150,7 +197,3 @@ Copyright 2026 ba4ihb
 
 - 时刻表数据来源：济南轨道交通 2026 年 8 月运营线路时刻表
 - 图标与视觉：自绘"泉滴 + 轨道"标志，泉城蓝 / 泉水青视觉体系
-
-<div align="center">
-<sub>用 ❤️ 打卡济南的每一天</sub>
-</div>
