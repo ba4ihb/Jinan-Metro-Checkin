@@ -116,7 +116,7 @@
 
 ## 安装
 
-从 [Releases](https://github.com/ba4ihb/Jinan-Metro-Checkin/releases) 下载最新的 `泉城轨迹-debug.apk`，在 Android 设备上安装即可。
+下载 [release/QuanchenTrail-v1.0.0-debug.apk](release/QuanchenTrail-v1.0.0-debug.apk)，在 Android 设备上安装即可。
 
 > ⚠️ 当前为 Debug 构建，未签名，仅供体验。正式签名版本将在后续 Release 提供。
 
