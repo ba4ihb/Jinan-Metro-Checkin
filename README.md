@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/github/languages/count/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge" alt="Language Count" />
 <img src="https://img.shields.io/github/languages/code-size/ba4ihb/Jinan-Metro-Checkin?style=for-the-badge" alt="Code Size" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba4ihb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Language Proportion" height="165" />
+<img src="https://img.shields.io/badge/Java-100%25-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 100%" />
+<img src="https://img.shields.io/badge/Languages-1-blue?style=for-the-badge" alt="Languages 1" />
+<img src="https://img.shields.io/badge/Code%20Size-135%20K-lightgrey?style=for-the-badge" alt="Code Size 135K" />
 
 </div>
 

@@ -1,7 +1,0 @@
-{'station_id': 'S094', 'name': '山东职业学院', 'lines': ['8', '云巴1号线'], 'lat': 36.6743356, 'lng': 117.3192434, 'system_type': 'yunba', 'operational_status': 'active'}
-{'station_id': 'S093', 'name': '春博路', 'lines': ['8', '云巴1号线'], 'lat': 36.6691026, 'lng': 117.3008982, 'system_type': 'yunba', 'operational_status': 'active'}
-{'station_id': 'S004', 'name': '奥体中心', 'lines': ['3', '4'], 'lat': 36.6592302, 'lng': 117.1058934, 'system_type': 'metro', 'operational_status': 'active'}
-{'station_id': 'S005', 'name': '安成街', 'lines': ['3', '6'], 'lat': 36.6680928, 'lng': 117.1044866, 'system_type': 'metro', 'operational_status': 'active'}
-{'station_id': 'S012', 'name': '济南东站', 'lines': ['3', '6', '济阳线'], 'lat': 36.7459301, 'lng': 117.1532825, 'system_type': 'jiyang', 'operational_status': 'active'}
-{'station_id': 'S046', 'name': '彭家庄', 'lines': ['1', '2', '4', '云巴1号线'], 'lat': 36.709124, 'lng': 117.2235875, 'system_type': 'yunba', 'operational_status': 'active'}
-{'station_id': 'S050', 'name': '邢村立交桥东', 'lines': ['4', '8'], 'lat': 36.671599, 'lng': 117.2121934, 'system_type': 'metro', 'operational_status': 'active'}
