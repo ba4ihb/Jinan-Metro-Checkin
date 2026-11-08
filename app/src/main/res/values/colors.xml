@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#176B87</color>
+    <color name="primary_dark">#123B5D</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#E5F3F6</color>
+    <color name="secondary">#48C6C0</color>
+    <color name="accent">#F3B63A</color>
+    <color name="background">#F4F8FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#17323D</color>
+    <color name="muted">#6C7C84</color>
+    <color name="outline">#DCE7EB</color>
+    <color name="success">#10883A</color>
+    <color name="warning">#F0B323</color>
+    <color name="danger">#C62828</color>
+    <color name="hero_start">#123B5D</color>
+    <color name="hero_end">#1E88A8</color>
+    <color name="line1">#C724B1</color>
+    <color name="line2">#F0B323</color>
+    <color name="line3">#003087</color>
+    <color name="line4">#10883A</color>
+    <color name="line6">#41B6E6</color>
+    <color name="line8">#753BBD</color>
+    <color name="jiyang">#008AE6</color>
+    <color name="yunba">#60C1BE</color>
+</resources>

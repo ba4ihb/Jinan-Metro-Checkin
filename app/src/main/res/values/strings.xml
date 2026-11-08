@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">泉城轨迹</string>
+    <string name="tab_home">打卡</string>
+    <string name="tab_lines">线路</string>
+    <string name="tab_achievements">成就</string>
+    <string name="tab_records">记录</string>
+    <string name="tab_about">关于</string>
+    <string name="about_title">关于泉城轨迹</string>
+    <string name="about_subtitle">让每一次到站，都留下泉城的痕迹</string>
+    <string name="version_label">版本</string>
+    <string name="build_label">构建号</string>
+    <string name="data_date_label">数据时点</string>
+    <string name="settings_title">偏好设置</string>
+    <string name="setting_notify">打卡提醒</string>
+    <string name="setting_notify_desc">进入车站 100 m 范围时显示确认通知</string>
+    <string name="setting_agent_json">显示 Agent 结构化响应</string>
+    <string name="setting_agent_json_desc">在首页展示最近一次 JSON 指令</string>
+    <string name="setting_radius">打卡半径</string>
+    <string name="setting_radius_desc">可在 50–500 m 之间调整，默认 100 m</string>
+    <string name="clear_records">清除打卡记录</string>
+    <string name="clear_records_desc">仅清除本机记录，不影响线路与成就定义</string>
+    <string name="clear_confirm">确定清除全部打卡记录吗？</string>
+    <string name="clear_done">打卡记录已清除</string>
+    <string name="privacy_title">数据与隐私</string>
+    <string name="privacy_desc">定位数据仅用于本地判定车站范围，不上传服务器；图片仅记录数量与状态。</string>
+    <string name="source_title">时刻表来源</string>
+    <string name="source_desc">济南轨道交通 2026 年 8 月运营线路时刻表，节假日调整以车站公告为准。</string>
+    <string name="startup_error_title">启动遇到问题</string>
+    <string name="startup_error_desc">应用已拦截启动异常，可重试或稍后再次打开。</string>
+    <string name="retry">重新启动</string>
+    <string name="exit">退出应用</string>
+    <string name="about_logo_desc">泉城轨迹标志</string>
+    <string name="version_format">v%1$s</string>
+    <string name="build_format">%1$d</string>
+    <string name="data_date_format">%1$s</string>
+    <string name="location_waiting">正在等待定位…</string>
+    <string name="location_denied">定位权限未开启，无法判定打卡资格</string>
+    <string name="location_disabled">请打开系统定位服务后重试</string>
+    <string name="nearest_station">最近车站</string>
+    <string name="no_prompt">进入车站 100 m 范围后，这里会出现打卡确认</string>
+    <string name="confirm_checkin">确认打卡</string>
+    <string name="later">稍后</string>
+    <string name="photo_checkin">带图打卡</string>
+    <string name="no_photo">暂不上传图片</string>
+    <string name="checkin_radius">打卡半径 100 m</string>
+    <string name="transfer_sync">打卡后将同步更新所有关联线路状态</string>
+    <string name="empty_lines">暂无线路数据</string>
+    <string name="empty_achievements">暂无成就数据</string>
+    <string name="empty_records">还没有打卡记录</string>
+    <string name="progress_format">%1$d / %2$d</string>
+    <string name="distance_format">%1$d m</string>
+    <string name="permission_rationale">泉城轨迹需要定位权限，才能在你进入车站范围时判定打卡资格。</string>
+    <string name="permission_settings">请在系统设置中允许“泉城轨迹”使用定位权限。</string>
+    <string name="notification_channel">打卡提醒</string>
+    <string name="notification_title">进入打卡范围</string>
+    <string name="agent_status">Agent 结构化响应</string>
+    <string name="photo_selected">已选择 %1$d 张纪念图片</string>
+    <string name="photo_limit">最多选择 3 张图片</string>
+    <string name="record_photo_format">图片 ×%1$d</string>
+    <string name="line_progress_label">已完成站点</string>
+    <string name="achievement_progress_label">进度</string>
+    <string name="pending_line">待开通</string>
+</resources>
+
+
+

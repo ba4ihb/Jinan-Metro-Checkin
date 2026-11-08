@@ -1,0 +1,103 @@
+[
+  {
+    "station_name": "王府庄",
+    "lines": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "station_name": "大杨",
+    "lines": [
+      "1",
+      "4"
+    ]
+  },
+  {
+    "station_name": "八涧堡",
+    "lines": [
+      "2",
+      "3"
+    ]
+  },
+  {
+    "station_name": "腊山",
+    "lines": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "station_name": "彭家庄",
+    "lines": [
+      "1",
+      "2",
+      "4",
+      "云巴1号线"
+    ]
+  },
+  {
+    "station_name": "凤凰北路",
+    "lines": [
+      "2",
+      "6"
+    ]
+  },
+  {
+    "station_name": "奥体中心",
+    "lines": [
+      "3",
+      "4"
+    ]
+  },
+  {
+    "station_name": "安成街",
+    "lines": [
+      "3",
+      "6"
+    ]
+  },
+  {
+    "station_name": "济南东站",
+    "lines": [
+      "3",
+      "6",
+      "济阳线"
+    ]
+  },
+  {
+    "station_name": "邢村立交桥东",
+    "lines": [
+      "4",
+      "8"
+    ]
+  },
+  {
+    "station_name": "唐冶",
+    "lines": [
+      "4",
+      "云巴1号线"
+    ]
+  },
+  {
+    "station_name": "历城二中唐冶校区",
+    "lines": [
+      "4",
+      "云巴1号线"
+    ]
+  },
+  {
+    "station_name": "春博路",
+    "lines": [
+      "8",
+      "云巴1号线"
+    ]
+  },
+  {
+    "station_name": "山东职业学院",
+    "lines": [
+      "8",
+      "云巴1号线"
+    ]
+  }
+]

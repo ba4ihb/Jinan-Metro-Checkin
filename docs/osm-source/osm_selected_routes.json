@@ -1,0 +1,438 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-06T15:12:40Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 20010728,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13409881554,
+      "role": "stop_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 13409881553,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150534,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150537,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150554,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150557,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150598,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160307,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160313,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160333,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 12211399176,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160341,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160372,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160366,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160381,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160384,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253041,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253034,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253023,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 12211429152,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363223389,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253238,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253218,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 12211429140,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160400,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160423,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160447,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160450,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160453,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160455,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160459,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409881550,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409881554,
+      "role": "stop_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 1461972450,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005339,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005333,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005336,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005338,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1319586038,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005342,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005344,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461972447,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#277ba2",
+    "from": "徐马",
+    "name": "云巴线：徐马 -> 春园路 -> 徐马",
+    "name:en": "inan SkyShuttle Line 1",
+    "name:zh": "云巴线：徐马 -> 春园路 -> 徐马",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "public_transport:version": "2",
+    "ref": "云巴线",
+    "route": "light_rail",
+    "to": "徐马",
+    "type": "route",
+    "via": "春园路",
+    "wikidata": "Q137259312",
+    "wikipedia": "en:Jinan SkyShuttle"
+  }
+},
+{
+  "type": "relation",
+  "id": 20020670,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13415996645,
+      "role": "platform_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 13415996628,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996624,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996619,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996613,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996598,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996569,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996536,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996532,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996527,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996503,
+      "role": "platform_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 1462598374,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647280,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598378,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647278,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1547914337,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647277,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647276,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598377,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598375,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598368,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598370,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598373,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598372,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598367,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598366,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598365,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598364,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598361,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598352,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598354,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598356,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598359,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598362,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598348,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#5ac4bd",
+    "from": "济南东站",
+    "name": "济阳线：济南东站 -> 济阳北",
+    "name:zh": "济阳线：济南东站 -> 济阳北",
+    "opening_hours": "Mo-Su 06:30-21:00",
+    "public_transport:version": "2",
+    "ref": "济阳线",
+    "route": "light_rail",
+    "to": "济阳北",
+    "type": "route",
+    "wikidata": "Q137617391"
+  }
+}
+
+  ]
+}

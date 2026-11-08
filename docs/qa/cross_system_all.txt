@@ -1,0 +1,7 @@
+('山东职业学院', ['8', '云巴1号线'], ['metro', 'yunba'])
+('春博路', ['8', '云巴1号线'], ['metro', 'yunba'])
+('济南东站', ['3', '6', '济阳线'], ['jiyang', 'metro'])
+('彭家庄', ['1', '2', '4', '云巴1号线'], ['metro', 'yunba'])
+('历城二中唐冶校区', ['4', '云巴1号线'], ['metro', 'yunba'])
+('唐冶', ['4', '云巴1号线'], ['metro', 'yunba'])
+total cross-system stations in stations.json: 6

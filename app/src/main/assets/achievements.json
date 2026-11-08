@@ -1,0 +1,186 @@
+[
+  {
+    "achievement_id": "line1_complete",
+    "name": "丁香全线",
+    "condition_type": "line",
+    "line": "1",
+    "target": 11,
+    "target_station_set": [],
+    "description": "完成 1 号线全部 11 站打卡"
+  },
+  {
+    "achievement_id": "line2_complete",
+    "name": "河脉贯通",
+    "condition_type": "line",
+    "line": "2",
+    "target": 19,
+    "target_station_set": [],
+    "description": "完成 2 号线全部 19 站打卡"
+  },
+  {
+    "achievement_id": "line3_complete",
+    "name": "智慧纵贯",
+    "condition_type": "line",
+    "line": "3",
+    "target": 18,
+    "target_station_set": [],
+    "description": "完成 3 号线全部 18 站打卡"
+  },
+  {
+    "achievement_id": "line4_complete",
+    "name": "青山揽胜",
+    "condition_type": "line",
+    "line": "4",
+    "target": 33,
+    "target_station_set": [],
+    "description": "完成 4 号线全部 33 站打卡"
+  },
+  {
+    "achievement_id": "line6e_complete",
+    "name": "泉之东行",
+    "condition_type": "line",
+    "line": "6",
+    "target": 17,
+    "target_station_set": [],
+    "description": "完成 6 号线东段全部 17 站打卡"
+  },
+  {
+    "achievement_id": "line8_complete",
+    "name": "科创章丘",
+    "condition_type": "line",
+    "line": "8",
+    "target": 14,
+    "target_station_set": [],
+    "description": "完成 8 号线全部 14 站打卡"
+  },
+  {
+    "achievement_id": "jiyang_complete",
+    "name": "济水北望",
+    "condition_type": "line",
+    "line": "济阳线",
+    "target": 11,
+    "target_station_set": [],
+    "description": "完成济阳线全部 11 站打卡"
+  },
+  {
+    "achievement_id": "yunba_complete",
+    "name": "云环全巡",
+    "condition_type": "line",
+    "line": "云巴1号线",
+    "target": 32,
+    "target_station_set": [],
+    "description": "完成云巴 1 号线全部 32 站打卡"
+  },
+  {
+    "achievement_id": "all_hubs",
+    "name": "枢纽全通",
+    "condition_type": "station_set",
+    "target": 6,
+    "target_station_set": [
+      "济南西站",
+      "济南站北",
+      "济南东站",
+      "机场南",
+      "济泺路",
+      "山大南路东口"
+    ],
+    "description": "打卡 6 个综合枢纽接驳车站"
+  },
+  {
+    "achievement_id": "all_scenic",
+    "name": "泉景巡礼",
+    "condition_type": "station_set",
+    "target": 4,
+    "target_station_set": [
+      "千佛山",
+      "泉城公园",
+      "山东博物馆",
+      "奥体中心"
+    ],
+    "description": "打卡千佛山、泉城公园、山东博物馆、奥体中心"
+  },
+  {
+    "achievement_id": "all_hospitals",
+    "name": "医者仁心",
+    "condition_type": "station_set",
+    "target": 12,
+    "target_station_set": [
+      "第一医科大学",
+      "腊山",
+      "营市街",
+      "五里牌坊",
+      "省体育中心",
+      "泉城公园",
+      "山师东路",
+      "浆水泉路",
+      "奥体东路",
+      "汉峪金谷",
+      "济泺路",
+      "历山路"
+    ],
+    "description": "打卡全部 12 个医院接驳车站"
+  },
+  {
+    "achievement_id": "all_universities",
+    "name": "青春专列",
+    "condition_type": "station_set",
+    "target": 7,
+    "target_station_set": [
+      "大学城",
+      "山东大学",
+      "青年政治学院",
+      "山东职业学院",
+      "山东现代学院",
+      "山财章丘校区",
+      "山大龙山"
+    ],
+    "description": "打卡全部 7 个高校接驳车站"
+  },
+  {
+    "achievement_id": "first_transfer",
+    "name": "换乘初体验",
+    "condition_type": "any_transfer",
+    "target": 1,
+    "target_station_set": [],
+    "description": "在任意换乘站完成一次联动打卡"
+  },
+  {
+    "achievement_id": "all_transfer_nodes",
+    "name": "八方通衢",
+    "condition_type": "station_set",
+    "target": 14,
+    "target_station_set": [
+      "王府庄",
+      "大杨",
+      "八涧堡",
+      "腊山",
+      "彭家庄",
+      "凤凰北路",
+      "奥体中心",
+      "安成街",
+      "济南东站",
+      "邢村立交桥东",
+      "唐冶",
+      "历城二中唐冶校区",
+      "春博路",
+      "山东职业学院"
+    ],
+    "description": "打卡全部 14 个换乘站"
+  },
+  {
+    "achievement_id": "multi_system_explorer",
+    "name": "全制式行者",
+    "condition_type": "system_types",
+    "target": 3,
+    "target_station_set": [],
+    "description": "地铁、济阳线、云巴各完成至少 1 站"
+  },
+  {
+    "achievement_id": "photo_keeper",
+    "name": "光影记录",
+    "condition_type": "photo_checkins",
+    "target": 10,
+    "target_station_set": [],
+    "description": "完成 10 次带图片的打卡"
+  }
+]

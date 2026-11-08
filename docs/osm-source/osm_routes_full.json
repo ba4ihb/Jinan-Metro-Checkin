@@ -1,0 +1,1259 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-06T15:13:42Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 8466367,
+  "members": [
+    {
+      "type": "node",
+      "ref": 8651324866,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8690737723,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8690745255,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5776278251,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8697342224,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8697322882,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8701518816,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8701656405,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8701671032,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8701722982,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8711108533,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8711102809,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8693803515,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8690831676,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5776278218,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5778236921,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5776278258,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5776278255,
+      "role": "stop"
+    },
+    {
+      "type": "way",
+      "ref": 933320587,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 900472612,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 982220708,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 940678891,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 940678892,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 938415406,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 691457339,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#18469d",
+    "from": "龙洞",
+    "name": "3号线：龙洞 -> 机场南",
+    "name:zh": "3号线：龙洞 -> 机场南",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "3",
+    "route": "subway",
+    "to": "机场南",
+    "type": "route",
+    "wikidata": "Q24837836",
+    "wikipedia": "zh:济南轨道交通3号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 9461609,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5257709313,
+      "role": "stop_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 6145390803,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6145390826,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6145390840,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6145390854,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6145390986,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6147691980,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6147692710,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6147692732,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8637727341,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 6147692771,
+      "role": "stop_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 543894292,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 940618439,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 656253289,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#b3499b",
+    "from": "工研院",
+    "name": "1号线：工研院 → 方特",
+    "name:zh": "1号线：工研院 → 方特",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "1",
+    "route": "subway",
+    "to": "方特",
+    "type": "route",
+    "via": "创新谷;园博园;大学城;紫薇路;赵营;玉符河;王府庄;大杨;济南西站",
+    "wikidata": "Q18654264",
+    "wikipedia": "zh:济南轨道交通1号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 12686483,
+  "members": [
+    {
+      "type": "node",
+      "ref": 6385450627,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624798395,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 9165273182,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5622487837,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624799065,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624799066,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624799071,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5622487870,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624799073,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8852940083,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5622487913,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8712295265,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8712270993,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5622488229,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624799093,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624799096,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 5624799098,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8711267364,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 8711181101,
+      "role": "stop"
+    },
+    {
+      "type": "way",
+      "ref": 656253290,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 940618430,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 940618447,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 801597787,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#efa93d",
+    "from": "王府庄",
+    "from:en": "Wangfuzhuang",
+    "from:zh": "王府庄",
+    "name": "2号线：王府庄 -> 彭家庄",
+    "name:zh": "2号线：王府庄 -> 彭家庄",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "2",
+    "route": "subway",
+    "start_date": "2021-03-26",
+    "to": "彭家庄",
+    "to:en": "Pengjiazhuang",
+    "to:zh": "彭家庄",
+    "type": "route",
+    "wikidata": "Q28412021",
+    "wikipedia": "zh:济南轨道交通2号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 20008327,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13409157263,
+      "role": "stop_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 13329930504,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13329918995,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157341,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157372,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157404,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157409,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157428,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157446,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157465,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157466,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157472,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157495,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157518,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157534,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157544,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408839605,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408839620,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408839627,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408839644,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408839660,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408839671,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408839690,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408840106,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408840131,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408840146,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408786683,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408786686,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408786681,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408786689,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408786695,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408786687,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13408786697,
+      "role": "stop_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 1461891346,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461891349,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1453519468,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461891359,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461854892,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1453526237,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461848209,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#2f9248",
+    "from": "彭家庄",
+    "name": "4号线：彭家庄 → 第一医科大学",
+    "name:zh": "4号线：彭家庄 → 第一医科大学",
+    "opening_hours": "Mo-Su 08:00-22:30",
+    "public_transport:version": "2",
+    "ref": "4",
+    "route": "subway",
+    "to": "第一医科大学",
+    "type": "route",
+    "wikidata": "Q86727924"
+  }
+},
+{
+  "type": "relation",
+  "id": 20009445,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13332942305,
+      "role": "stop_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 13409156986,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143212,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143229,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143235,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143237,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143256,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143283,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143261,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409143289,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156922,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156929,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156940,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156958,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156964,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156974,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156980,
+      "role": "stop_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 1461891309,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461891295,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#26bff0",
+    "from": "山东大学",
+    "name": "6号线：山东大学 -> 梁王",
+    "name:zh": "6号线：山东大学 -> 梁王",
+    "opening_hours": "Mo-Su 06:00-22:30",
+    "public_transport:version": "2",
+    "ref": "6",
+    "route": "subway",
+    "to": "梁王",
+    "type": "route",
+    "wikidata": "Q115054272"
+  }
+},
+{
+  "type": "relation",
+  "id": 20009459,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13409157374,
+      "role": "stop_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 13409157218,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157201,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409156996,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157020,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157034,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157046,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157052,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157072,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157105,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157113,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157135,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157155,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409157199,
+      "role": "stop_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 1461891334,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461891330,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1453519469,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461891321,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#62449b",
+    "from": "邢村立交桥东",
+    "name": "8号线：邢村立交桥东 → 清源大街",
+    "name:zh": "8号线：邢村立交桥东 → 清源大街",
+    "opening_hours": "Mo-Su 06:00-22:05",
+    "public_transport:version": "2",
+    "ref": "8",
+    "route": "subway",
+    "to": "清源大街",
+    "type": "route",
+    "wikidata": "Q85776746"
+  }
+},
+{
+  "type": "relation",
+  "id": 20010728,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13409881554,
+      "role": "stop_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 13409881553,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150534,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150537,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150554,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150557,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410150598,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160307,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160313,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160333,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 12211399176,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160341,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160372,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160366,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160381,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160384,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253041,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253034,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253023,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 12211429152,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363223389,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253238,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13363253218,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 12211429140,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160400,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160423,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160447,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160450,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160453,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160455,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13410160459,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409881550,
+      "role": "stop"
+    },
+    {
+      "type": "node",
+      "ref": 13409881554,
+      "role": "stop_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 1461972450,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005339,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005333,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005336,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005338,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1319586038,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005342,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462005344,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1461972447,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#277ba2",
+    "from": "徐马",
+    "name": "云巴线：徐马 -> 春园路 -> 徐马",
+    "name:en": "inan SkyShuttle Line 1",
+    "name:zh": "云巴线：徐马 -> 春园路 -> 徐马",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "public_transport:version": "2",
+    "ref": "云巴线",
+    "route": "light_rail",
+    "to": "徐马",
+    "type": "route",
+    "via": "春园路",
+    "wikidata": "Q137259312",
+    "wikipedia": "en:Jinan SkyShuttle"
+  }
+},
+{
+  "type": "relation",
+  "id": 20020670,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13415996645,
+      "role": "platform_entry_only"
+    },
+    {
+      "type": "node",
+      "ref": 13415996628,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996624,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996619,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996613,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996598,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996569,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996536,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996532,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996527,
+      "role": "platform"
+    },
+    {
+      "type": "node",
+      "ref": 13415996503,
+      "role": "platform_exit_only"
+    },
+    {
+      "type": "way",
+      "ref": 1462598374,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647280,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598378,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647278,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1547914337,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647277,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1533647276,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598377,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598375,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598368,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598370,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598373,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598372,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598367,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598366,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598365,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598364,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598361,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598352,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598354,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598356,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598359,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598362,
+      "role": ""
+    },
+    {
+      "type": "way",
+      "ref": 1462598348,
+      "role": ""
+    }
+  ],
+  "tags": {
+    "colour": "#5ac4bd",
+    "from": "济南东站",
+    "name": "济阳线：济南东站 -> 济阳北",
+    "name:zh": "济阳线：济南东站 -> 济阳北",
+    "opening_hours": "Mo-Su 06:30-21:00",
+    "public_transport:version": "2",
+    "ref": "济阳线",
+    "route": "light_rail",
+    "to": "济阳北",
+    "type": "route",
+    "wikidata": "Q137617391"
+  }
+}
+
+  ]
+}

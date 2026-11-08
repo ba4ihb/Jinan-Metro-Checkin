@@ -1,0 +1,167 @@
+[
+  {
+    "station_name": "济南西站",
+    "poi_name": "济南西站（高铁）",
+    "category": "hub"
+  },
+  {
+    "station_name": "济南西站西广场",
+    "poi_name": "济南西站（高铁）",
+    "category": "hub"
+  },
+  {
+    "station_name": "济南站北",
+    "poi_name": "济南站（火车站）",
+    "category": "hub"
+  },
+  {
+    "station_name": "济南东站",
+    "poi_name": "济南东站（高铁）",
+    "category": "hub"
+  },
+  {
+    "station_name": "机场南",
+    "poi_name": "遥墙国际机场",
+    "category": "hub"
+  },
+  {
+    "station_name": "济南站北",
+    "poi_name": "济南广场汽车站（北广场）",
+    "category": "hub"
+  },
+  {
+    "station_name": "济泺路",
+    "poi_name": "济南长途汽车总站",
+    "category": "hub"
+  },
+  {
+    "station_name": "济南西站",
+    "poi_name": "济南长途汽车西站",
+    "category": "hub"
+  },
+  {
+    "station_name": "济南西站西广场",
+    "poi_name": "济南长途汽车西站",
+    "category": "hub"
+  },
+  {
+    "station_name": "山大南路东口",
+    "poi_name": "济南长途汽车东站",
+    "category": "hub"
+  },
+  {
+    "station_name": "千佛山",
+    "poi_name": "千佛山风景区",
+    "category": "scenic"
+  },
+  {
+    "station_name": "泉城公园",
+    "poi_name": "泉城公园",
+    "category": "scenic"
+  },
+  {
+    "station_name": "山东博物馆",
+    "poi_name": "山东博物馆",
+    "category": "scenic"
+  },
+  {
+    "station_name": "奥体中心",
+    "poi_name": "奥体中心",
+    "category": "scenic"
+  },
+  {
+    "station_name": "第一医科大学",
+    "poi_name": "第一医科大学",
+    "category": "hospital"
+  },
+  {
+    "station_name": "腊山",
+    "poi_name": "腊山",
+    "category": "hospital"
+  },
+  {
+    "station_name": "营市街",
+    "poi_name": "营市街",
+    "category": "hospital"
+  },
+  {
+    "station_name": "五里牌坊",
+    "poi_name": "五里牌坊",
+    "category": "hospital"
+  },
+  {
+    "station_name": "省体育中心",
+    "poi_name": "省体育中心",
+    "category": "hospital"
+  },
+  {
+    "station_name": "泉城公园",
+    "poi_name": "泉城公园",
+    "category": "hospital"
+  },
+  {
+    "station_name": "山师东路",
+    "poi_name": "山师东路",
+    "category": "hospital"
+  },
+  {
+    "station_name": "浆水泉路",
+    "poi_name": "浆水泉路",
+    "category": "hospital"
+  },
+  {
+    "station_name": "奥体东路",
+    "poi_name": "奥体东路",
+    "category": "hospital"
+  },
+  {
+    "station_name": "汉峪金谷",
+    "poi_name": "汉峪金谷",
+    "category": "hospital"
+  },
+  {
+    "station_name": "济泺路",
+    "poi_name": "济泺路",
+    "category": "hospital"
+  },
+  {
+    "station_name": "历山路",
+    "poi_name": "历山路",
+    "category": "hospital"
+  },
+  {
+    "station_name": "大学城",
+    "poi_name": "大学城",
+    "category": "university"
+  },
+  {
+    "station_name": "山东大学",
+    "poi_name": "山东大学",
+    "category": "university"
+  },
+  {
+    "station_name": "青年政治学院",
+    "poi_name": "青年政治学院",
+    "category": "university"
+  },
+  {
+    "station_name": "山东职业学院",
+    "poi_name": "山东职业学院",
+    "category": "university"
+  },
+  {
+    "station_name": "山东现代学院",
+    "poi_name": "山东现代学院",
+    "category": "university"
+  },
+  {
+    "station_name": "山财章丘校区",
+    "poi_name": "山财章丘校区",
+    "category": "university"
+  },
+  {
+    "station_name": "山大龙山",
+    "poi_name": "山大龙山",
+    "category": "university"
+  }
+]

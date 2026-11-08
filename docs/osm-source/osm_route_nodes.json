@@ -1,0 +1,1849 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-06T15:14:42Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 5257709313,
+  "tags": {
+    "name": "工研院",
+    "name:en": "Gongyanyuan",
+    "name:zh": "工研院",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5622487837,
+  "tags": {
+    "name": "二环西路",
+    "name:en": "Erhuanxilu",
+    "name:zh": "二环西路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes",
+    "wikidata": "Q106768905"
+  }
+},
+{
+  "type": "node",
+  "id": 5622487870,
+  "tags": {
+    "name": "济南站北",
+    "name:en": "Jinan Railway Station North",
+    "name:zh": "济南站北",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5622487913,
+  "tags": {
+    "name": "北园",
+    "name:en": "Beiyuan",
+    "name:zh": "北园",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5622488229,
+  "tags": {
+    "name": "祝甸",
+    "name:en": "Zhudian",
+    "name:zh": "祝甸",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624798395,
+  "tags": {
+    "name": "腊山南",
+    "name:en": "Lashannan",
+    "name:zh": "腊山南",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624799065,
+  "tags": {
+    "name": "老屯",
+    "name:en": "Laotun",
+    "name:zh": "老屯",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624799066,
+  "tags": {
+    "name": "八里桥",
+    "name:en": "Baliqiao",
+    "name:zh": "八里桥",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624799071,
+  "tags": {
+    "name": "益康路",
+    "name:en": "Yikanglu",
+    "name:zh": "益康路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624799073,
+  "tags": {
+    "name": "济泺路",
+    "name:en": "Jiluolu",
+    "name:zh": "济泺路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624799093,
+  "tags": {
+    "name": "八涧堡",
+    "name:en": "Bajianpu",
+    "name:zh": "八涧堡",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624799096,
+  "tags": {
+    "name": "姜家庄",
+    "name:en": "Jiangjiazhuang",
+    "name:zh": "姜家庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5624799098,
+  "tags": {
+    "name": "凤凰北路",
+    "name:en": "Fenghuang Beilu",
+    "name:zh": "凤凰北路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5776278218,
+  "tags": {
+    "name": "川流",
+    "name:en": "Chuanliu",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5776278251,
+  "tags": {
+    "name": "奥体中心",
+    "name:en": "Olympic Sports Center",
+    "name:zh": "奥体中心",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5776278255,
+  "tags": {
+    "name": "机场南",
+    "name:en": "Jichangnan",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5776278258,
+  "tags": {
+    "name": "临空",
+    "name:en": "Linkong",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5778236921,
+  "tags": {
+    "name": "临港北路",
+    "name:en": "Lingangbeilu",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6145390803,
+  "tags": {
+    "name": "创新谷",
+    "name:en": "Chuangxingu",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6145390826,
+  "tags": {
+    "name": "园博园",
+    "name:en": "Yuanboyuan",
+    "name:en1": "Yuanboyuan",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6145390840,
+  "tags": {
+    "name": "大学城",
+    "name:en": "Daxuecheng",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6145390854,
+  "tags": {
+    "name": "紫薇路",
+    "name:en": "Ziweilu",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6145390986,
+  "tags": {
+    "name": "赵营",
+    "name:en": "Zhaoying",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6147691980,
+  "tags": {
+    "name": "玉符河",
+    "name:en": "Yufuhe",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6147692710,
+  "tags": {
+    "name": "王府庄",
+    "name:en": "Wangfuzhuang",
+    "name:zh": "王府庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6147692732,
+  "tags": {
+    "name": "大杨",
+    "name:en": "Dayang",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6147692771,
+  "tags": {
+    "name": "方特",
+    "name:en": "Fangte",
+    "name:zh": "方特",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6385450627,
+  "tags": {
+    "name": "王府庄",
+    "name:en": "Wangfuzhuang",
+    "name:zh": "王府庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8637727341,
+  "tags": {
+    "name": "济南西站",
+    "name:en": "Jinanxi Railway Station",
+    "name:zh": "济南西站",
+    "note": "济南轨道交通1号线济南西站",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8651324866,
+  "tags": {
+    "name": "龙洞",
+    "name:en": "Longdong",
+    "name:zh": "龙洞",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8690737723,
+  "tags": {
+    "name": "孟家庄",
+    "name:en": "Mengjiazhuang",
+    "name:zh": "孟家庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8690745255,
+  "tags": {
+    "name": "龙奥大厦",
+    "name:en": "Longao Building",
+    "name:zh": "龙奥大厦",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8690831676,
+  "tags": {
+    "name": "曲家庄",
+    "name:en": "Qujiazhuang",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8693803515,
+  "tags": {
+    "name": "滩头",
+    "name:en": "Tantou",
+    "name:zh": "滩头",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8697322882,
+  "tags": {
+    "name": "丁家庄",
+    "name:en": "Dingjiazhuang",
+    "name:zh": "丁家庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8697342224,
+  "tags": {
+    "name": "安成街",
+    "name:en": "Anchengjie",
+    "name:zh": "安成街",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8701518816,
+  "tags": {
+    "name": "花园东路",
+    "name:en": "Huayuandonglu",
+    "name:zh": "花园东路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8701656405,
+  "tags": {
+    "name": "八涧堡",
+    "name:en": "Bajianpu",
+    "name:zh": "八涧堡",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8701671032,
+  "tags": {
+    "name": "张马屯",
+    "name:en": "Zhangmatun",
+    "name:zh": "张马屯",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8701722982,
+  "tags": {
+    "name": "王舍人",
+    "name:en": "Wangsheren",
+    "name:zh": "王舍人",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8711102809,
+  "tags": {
+    "name": "济南东站",
+    "name:en": "Jinandong Railway Station",
+    "name:zh": "济南东站",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8711108533,
+  "tags": {
+    "name": "裴家营",
+    "name:en": "Peijiaying",
+    "name:zh": "裴家营",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8711181101,
+  "tags": {
+    "name": "彭家庄",
+    "name:en": "Pengjiazhuang",
+    "name:zh": "彭家庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8711267364,
+  "tags": {
+    "name": "鲍山",
+    "name:en": "Baoshan",
+    "name:zh": "鲍山",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8712270993,
+  "tags": {
+    "name": "七里堡",
+    "name:en": "Qilipu",
+    "name:zh": "七里堡",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8712295265,
+  "tags": {
+    "name": "历山路",
+    "name:en": "Lishanlu",
+    "name:zh": "历山路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8852940083,
+  "tags": {
+    "name": "生产路",
+    "name:wuu": "Shengchanlu",
+    "name:zh": "生产路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9165273182,
+  "tags": {
+    "name": "腊山",
+    "name:en": "Lashan",
+    "name:zh": "腊山",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12211399176,
+  "tags": {
+    "light_rail": "yes",
+    "name": "彩虹湖",
+    "name:en": "Caihong Hu",
+    "name:zh": "彩虹湖",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 12211429140,
+  "tags": {
+    "light_rail": "yes",
+    "name": "武家庄",
+    "name:en": "Wujiazhuang",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 12211429152,
+  "tags": {
+    "light_rail": "yes",
+    "name": "贞观街",
+    "name:en": "Zhenguan Jie",
+    "name:zh": "贞观街",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13329918995,
+  "tags": {
+    "name": "唐冶",
+    "name:en": "Tangye",
+    "name:zh": "唐冶",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13329930504,
+  "tags": {
+    "name": "历城二中唐冶校区",
+    "name:en": "Licheng No.2 High School Tangye Campus",
+    "name:zh": "历城二中唐冶校区",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13332942305,
+  "tags": {
+    "name": "山东大学",
+    "name:en": "Shandong University",
+    "name:zh": "山东大学",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13363223389,
+  "tags": {
+    "light_rail": "yes",
+    "name": "历城二中唐冶校区",
+    "name:en": "Licheng No.2 High School Tangye Campus",
+    "name:zh": "历城二中唐冶校区",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13363253023,
+  "tags": {
+    "light_rail": "yes",
+    "name": "唐冶",
+    "name:en": "Tangye",
+    "name:zh": "唐冶",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13363253034,
+  "tags": {
+    "light_rail": "yes",
+    "name": "历城文博中心",
+    "name:en": "Licheng Wenbo Center",
+    "name:zh": "历城文博中心",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13363253041,
+  "tags": {
+    "light_rail": "yes",
+    "name": "唐宣路",
+    "name:en": "Tangxuan Lu",
+    "name:zh": "唐宣路",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 13363253218,
+  "tags": {
+    "light_rail": "yes",
+    "name": "唐冶东路",
+    "name:en": "Tangye Donglu",
+    "name:zh": "唐冶东路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13363253238,
+  "tags": {
+    "light_rail": "yes",
+    "name": "彭家庄",
+    "name:en": "Pengjiazhuang",
+    "name:zh": "彭家庄",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 13408786681,
+  "tags": {
+    "name": "腊山河公园",
+    "name:en": "Lashanhe Gongyuan",
+    "name:zh": "腊山河公园",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408786683,
+  "tags": {
+    "name": "段店",
+    "name:en": "Duandian",
+    "name:zh": "段店",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408786686,
+  "tags": {
+    "name": "腊山",
+    "name:zh": "腊山",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408786687,
+  "tags": {
+    "name": "春风跃动公园",
+    "name:en": "Chunfeng Yuedong Gongyuan",
+    "name:zh": "春风跃动公园",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408786689,
+  "tags": {
+    "name": "大杨",
+    "name:zh": "大杨",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408786695,
+  "tags": {
+    "name": "济南西站西广场",
+    "name:en": "Jinanxi Railway Station West Square",
+    "name:zh": "济南西站西广场",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408786697,
+  "tags": {
+    "name": "第一医科大学",
+    "name:en": "Shandong First Medical University",
+    "name:zh": "第一医科大学",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408839605,
+  "tags": {
+    "name": "燕山立交桥",
+    "name:en": "Yanshan Lijiaoqiao",
+    "name:zh": "燕山立交桥",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408839620,
+  "tags": {
+    "name": "山大路南口",
+    "name:en": "Shandalu South",
+    "name:zh": "山大路南口",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408839627,
+  "tags": {
+    "name": "山师东路",
+    "name:en": "Shanshi Donglu",
+    "name:zh": "山师东路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408839644,
+  "tags": {
+    "name": "千佛山",
+    "name:en": "Qianfo Mountain",
+    "name:zh": "千佛山",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408839660,
+  "tags": {
+    "name": "泉城公园",
+    "name:en": "Quancheng Gongyuan",
+    "name:zh": "泉城公园",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408839671,
+  "tags": {
+    "name": "省体育中心",
+    "name:en": "Shandong Sports Center",
+    "name:zh": "省体育中心",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408839690,
+  "tags": {
+    "name": "八一立交桥",
+    "name:en": "Bayi Lijiaoqiao",
+    "name:zh": "八一立交桥",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408840106,
+  "tags": {
+    "name": "五里牌坊",
+    "name:en": "Wuli Paifang",
+    "name:zh": "五里牌坊",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408840131,
+  "tags": {
+    "name": "南辛庄",
+    "name:en": "Nanxinzhuang",
+    "name:zh": "南辛庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13408840146,
+  "tags": {
+    "name": "营市街",
+    "name:en": "Yingshi Jie",
+    "name:zh": "营市街",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143212,
+  "tags": {
+    "name": "七里河路南口",
+    "name:en": "Qilihelu South",
+    "name:zh": "七里河路南口",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143229,
+  "tags": {
+    "name": "茂岭山",
+    "name:en": "Maoling Shan",
+    "name:zh": "茂岭山",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143235,
+  "tags": {
+    "name": "中央商务区",
+    "name:en": "Central Business District",
+    "name:zh": "中央商务区",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143237,
+  "tags": {
+    "name": "安成街",
+    "name:en": "Anchengjie",
+    "name:zh": "安成街",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143256,
+  "tags": {
+    "name": "天泺路",
+    "name:en": "Tianluo Lu",
+    "name:zh": "天泺路",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143261,
+  "tags": {
+    "name": "开拓路",
+    "name:en": "Kaituo Lu",
+    "name:zh": "开拓路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143283,
+  "tags": {
+    "name": "齐鲁软件园",
+    "name:en": "Qilusoft Park",
+    "name:zh": "齐鲁软件园",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409143289,
+  "tags": {
+    "name": "世纪大道",
+    "name:en": "Shiji Dadao",
+    "name:zh": "世纪大道",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156922,
+  "tags": {
+    "name": "徐家庄",
+    "name:en": "Xujiazhuang",
+    "name:zh": "徐家庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156929,
+  "tags": {
+    "name": "凤凰北路",
+    "name:en": "Fenghuang Beilu",
+    "name:zh": "凤凰北路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156940,
+  "tags": {
+    "name": "王舍人立交桥",
+    "name:en": "Wangsheren Lijiaoqiao",
+    "name:zh": "王舍人立交桥",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156958,
+  "tags": {
+    "name": "响泉街",
+    "name:en": "Xiangquan Jie",
+    "name:zh": "响泉街",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156964,
+  "tags": {
+    "name": "济南东站",
+    "name:en": "Jinandong Railway Station",
+    "name:zh": "济南东站",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156974,
+  "tags": {
+    "name": "梁王西",
+    "name:en": "Liangwang West",
+    "name:zh": "梁王西",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156980,
+  "tags": {
+    "name": "梁王",
+    "name:en": "Liangwang",
+    "name:zh": "梁王",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156986,
+  "tags": {
+    "name": "山大南路东口",
+    "name:en": "Shanda'nanlu East",
+    "name:zh": "山大南路东口",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409156996,
+  "tags": {
+    "name": "公路技师学院",
+    "name:en": "Shandong Highway Technician College",
+    "name:zh": "公路技师学院",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157020,
+  "tags": {
+    "name": "春博路",
+    "name:en": "Chunbo Lu",
+    "name:zh": "春博路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157034,
+  "tags": {
+    "name": "山东职业学院",
+    "name:en": "Shandong Polytechnic",
+    "name:zh": "山东职业学院",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157046,
+  "tags": {
+    "name": "山东现代学院",
+    "name:en": "Shandong Xiandai University",
+    "name:zh": "山东现代学院",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157052,
+  "tags": {
+    "name": "山财章丘校区",
+    "name:en": "Shandong University of Finance and Economics Zhangqiu Campus",
+    "name:zh": "山财章丘校区",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157072,
+  "tags": {
+    "name": "黄土崖",
+    "name:en": "Huangtuya",
+    "name:zh": "黄土崖",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157105,
+  "tags": {
+    "name": "黄旗山北",
+    "name:en": "Huangqishan North",
+    "name:zh": "黄旗山北",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157113,
+  "tags": {
+    "name": "圣井",
+    "name:en": "Shengjing",
+    "name:zh": "圣井",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157135,
+  "tags": {
+    "name": "山大龙山",
+    "name:en": "Shandong University Longshan",
+    "name:zh": "山大龙山",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157155,
+  "tags": {
+    "name": "绣源河",
+    "name:en": "Xiuyuan He",
+    "name:zh": "绣源河",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157199,
+  "tags": {
+    "name": "清源大街",
+    "name:en": "Qingyuan Dajie",
+    "name:zh": "清源大街",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157201,
+  "tags": {
+    "name": "超算中心",
+    "name:en": "Supercomputing Center",
+    "name:zh": "超算中心",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157218,
+  "tags": {
+    "name": "青年政治学院",
+    "name:en": "Shandong Youth University of Political Science",
+    "name:zh": "青年政治学院",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157263,
+  "tags": {
+    "name": "彭家庄",
+    "name:en": "Pengjiazhuang",
+    "name:zh": "彭家庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157341,
+  "tags": {
+    "name": "唐冶公园",
+    "name:en": "Tangye Gongyuan",
+    "name:zh": "唐冶公园",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157372,
+  "tags": {
+    "name": "邢村立交桥东",
+    "name:en": "Xingcun Lijiaoqiao East",
+    "name:zh": "邢村立交桥东",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157374,
+  "tags": {
+    "name": "邢村立交桥东",
+    "name:en": "Xingcun Lijiaoqiao East",
+    "name:zh": "邢村立交桥东",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157404,
+  "tags": {
+    "name": "邢村立交桥西",
+    "name:en": "Xingcun Lijiaoqiao West",
+    "name:zh": "邢村立交桥西",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157409,
+  "tags": {
+    "name": "文旅城",
+    "name:en": "Wenlvcheng",
+    "name:zh": "文旅城",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157428,
+  "tags": {
+    "name": "黄金产业园",
+    "name:en": "Gold Industrial Park",
+    "name:zh": "黄金产业园",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157446,
+  "tags": {
+    "name": "林家庄",
+    "name:en": "Linjiazhuang",
+    "name:zh": "林家庄",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157465,
+  "tags": {
+    "name": "汉峪金谷",
+    "name:en": "Hanyu Jingu",
+    "name:zh": "汉峪金谷",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157466,
+  "tags": {
+    "name": "舜泰广场",
+    "name:en": "Shuntai Guangchang",
+    "name:zh": "舜泰广场",
+    "public_transport": "stop_position",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157472,
+  "tags": {
+    "name": "奥体东路",
+    "name:en": "Aoti Donglu",
+    "name:zh": "奥体东路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157495,
+  "tags": {
+    "name": "奥体中心",
+    "name:en": "Olympic Sports Center",
+    "name:zh": "奥体中心",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157518,
+  "tags": {
+    "alt_name": "万象城",
+    "alt_name:en": "MIXC",
+    "alt_name:zh": "万象城",
+    "name": "转山西路",
+    "name:en": "Zhuanshan Xilu",
+    "name:zh": "转山西路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157534,
+  "tags": {
+    "name": "山东博物馆",
+    "name:en": "Shandong Museum",
+    "name:zh": "山东博物馆",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409157544,
+  "tags": {
+    "name": "浆水泉路",
+    "name:en": "Jiangshuiquanlu",
+    "name:zh": "浆水泉路",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13409881550,
+  "tags": {
+    "light_rail": "yes",
+    "name": "大正路",
+    "name:en": "Dazheng Lu",
+    "name:zh": "大正路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13409881553,
+  "tags": {
+    "light_rail": "yes",
+    "name": "春园路",
+    "name:en": "Chunyuan Lu",
+    "name:zh": "春园路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13409881554,
+  "tags": {
+    "light_rail": "yes",
+    "name": "徐马",
+    "name:en": "Xuma",
+    "name:zh": "徐马",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410150534,
+  "tags": {
+    "light_rail": "yes",
+    "name": "市妇幼东院",
+    "name:en": "Jinan Maternity and Child Hospital (East Area)",
+    "name:zh": "市妇幼东院",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 13410150537,
+  "tags": {
+    "light_rail": "yes",
+    "name": "山东职业学院",
+    "name:en": "Shandong Polytechnic",
+    "name:zh": "山东职业学院",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410150554,
+  "tags": {
+    "light_rail": "yes",
+    "name": "庄科",
+    "name:en": "Zhuangke",
+    "name:zh": "庄科",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410150557,
+  "tags": {
+    "light_rail": "yes",
+    "name": "春景路",
+    "name:en": "Chunjing Lu",
+    "name:zh": "春景路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410150598,
+  "tags": {
+    "light_rail": "yes",
+    "name": "科创城",
+    "name:en": "Kechuang Cheng",
+    "name:zh": "科创城",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160307,
+  "tags": {
+    "light_rail": "yes",
+    "name": "春博路",
+    "name:en": "Chunbo Lu",
+    "name:zh": "春博路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160313,
+  "tags": {
+    "light_rail": "yes",
+    "name": "孙村",
+    "name:en": "Suncun",
+    "name:zh": "孙村",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160333,
+  "tags": {
+    "light_rail": "yes",
+    "name": "彩虹湖东",
+    "name:en": "Caihonghu East",
+    "name:zh": "彩虹湖东",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160341,
+  "tags": {
+    "light_rail": "yes",
+    "name": "春意路",
+    "name:en": "Chunyi Lu",
+    "name:zh": "春意路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160366,
+  "tags": {
+    "light_rail": "yes",
+    "name": "沙沟",
+    "name:en": "Shagou",
+    "name:zh": "沙沟",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160372,
+  "tags": {
+    "light_rail": "yes",
+    "name": "春暄路",
+    "name:en": "Chunxuan Lu",
+    "name:zh": "春暄路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160381,
+  "tags": {
+    "light_rail": "yes",
+    "name": "科航路",
+    "name:en": "Kehang Lu",
+    "name:zh": "科航路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160384,
+  "tags": {
+    "light_rail": "yes",
+    "name": "春秀路",
+    "name:en": "Chunxiu Lu",
+    "name:zh": "春秀路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160400,
+  "tags": {
+    "light_rail": "yes",
+    "name": "武将山东",
+    "name:en": "Wujiangshan East",
+    "name:zh": "武将山东",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160423,
+  "tags": {
+    "light_rail": "yes",
+    "name": "科远路",
+    "name:en": "Keyuan Lu",
+    "name:zh": "科远路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160447,
+  "tags": {
+    "light_rail": "yes",
+    "name": "世纪大道春喧路",
+    "name:en": "Shijidadao Chunxuanlu",
+    "name:zh": "世纪大道春喧路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160450,
+  "tags": {
+    "light_rail": "yes",
+    "name": "春晖路",
+    "name:en": "Chunhui Lu",
+    "name:zh": "春晖路",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160453,
+  "tags": {
+    "light_rail": "yes",
+    "name": "高新实验中学",
+    "name:en": "Jinan Innovation Zone Experimental High School",
+    "name:zh": "高新实验中学",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160455,
+  "tags": {
+    "light_rail": "yes",
+    "name": "高新一中",
+    "name:en": "Jinan Innovation Zone No.1 Middle School",
+    "name:zh": "高新一中",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13410160459,
+  "tags": {
+    "light_rail": "yes",
+    "name": "西巨野河",
+    "name:en": "Xijuye He",
+    "name:zh": "西巨野河",
+    "public_transport": "stop_position",
+    "railway": "stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996503,
+  "tags": {
+    "light_rail": "yes",
+    "name": "济阳北",
+    "name:en": "Jiyang North",
+    "name:zh": "济阳北",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996527,
+  "tags": {
+    "light_rail": "yes",
+    "name": "济阳市民中心",
+    "name:en": "Jiyang Citizen Services Center",
+    "name:zh": "济阳市民中心",
+    "public_transport": "platform",
+    "railway": "tram_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996532,
+  "tags": {
+    "name": "济北小学",
+    "name:en": "Jibei Primary School",
+    "name:zh": "济北小学",
+    "public_transport": "platform",
+    "railway": "tram_stop",
+    "tram": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996536,
+  "tags": {
+    "light_rail": "yes",
+    "name": "新元学校",
+    "name:en": "Xinyuan School",
+    "name:zh": "新元学校",
+    "public_transport": "platform",
+    "railway": "tram_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996569,
+  "tags": {
+    "name": "回河",
+    "name:en": "Huihe",
+    "name:zh": "回河",
+    "public_transport": "platform",
+    "railway": "tram_stop",
+    "tram": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996598,
+  "tags": {
+    "light_rail": "yes",
+    "name": "花二庄北街",
+    "name:en": "Hua'erzhuang Beijie",
+    "name:zh": "花二庄北街",
+    "public_transport": "platform",
+    "railway": "tram_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996613,
+  "tags": {
+    "light_rail": "yes",
+    "name": "清宁",
+    "name:en": "Qingning",
+    "name:zh": "清宁",
+    "public_transport": "platform",
+    "railway": "tram_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996619,
+  "tags": {
+    "light_rail": "yes",
+    "name": "英才学院北校区",
+    "name:en": "Shandong Yingcai University North Campus",
+    "name:zh": "英才学院北校区",
+    "public_transport": "platform",
+    "railway": "tram_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996624,
+  "tags": {
+    "light_rail": "yes",
+    "name": "黄河会展中心",
+    "name:en": "Yellow River Convention and Exhibition Center",
+    "name:zh": "黄河会展中心",
+    "public_transport": "platform",
+    "railway": "tram_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996628,
+  "tags": {
+    "light_rail": "yes",
+    "name": "崔寨",
+    "name:en": "Cuizhai",
+    "name:zh": "崔寨",
+    "public_transport": "platform",
+    "railway": "tram_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 13415996645,
+  "tags": {
+    "name": "济南东站",
+    "name:en": "Jinandong Railway Station",
+    "name:zh": "济南东站",
+    "public_transport": "platform",
+    "railway": "tram_stop",
+    "tram": "yes"
+  }
+}
+
+  ]
+}

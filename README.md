@@ -1,0 +1,156 @@
+<div align="center">
+
+# 泉城轨迹 QuanchenTrail
+
+**济南轨道交通打卡 Agent** · 让每一次到站，都留下泉城的痕迹
+
+<img src="https://img.shields.io/github/languages/top/ba4ihb/QuanchenTrail?style=for-the-badge&logo=android&logoColor=white" alt="Top Language" />
+<img src="https://img.shields.io/github/languages/count/ba4ihb/QuanchenTrail?style=for-the-badge" alt="Language Count" />
+<img src="https://img.shields.io/github/languages/code-size/ba4ihb/QuanchenTrail?style=for-the-badge" alt="Code Size" />
+<br/>
+<img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License" />
+<img src="https://img.shields.io/badge/API-26%2B-brightgreen?style=for-the-badge&logo=android" alt="Min API" />
+<img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
+<img src="https://img.shields.io/badge/Gradle-8.9-green?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba4ihb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Language Proportion" height="165" />
+
+</div>
+
+---
+
+## 简介
+
+泉城轨迹（QuanchenTrail）是一款 Android 原生应用，把济南地铁、济阳线、云巴三条轨道交通线网整合进一次打卡体验里。当你走进某个车站的打卡范围，App 会自动评估最近车站、周边看点、换乘信息，并以**页面内卡片**（而非弹窗）的方式请你确认打卡，逐步点亮属于你的"泉城轨迹"。
+
+- **统一判定**：地铁、济阳线、云巴共用同一套 `CheckinAgent` 半径判定（默认 100 m，可调 50–500 m）
+- **换乘联动**：在换乘站打卡会原子写入所有关联线路的打卡记录
+- **成就图鉴**：线路进度、换乘枢纽、多制式通行等多维度成就
+- **纯本地**：不联网、不上传，定位与照片仅存本机
+
+---
+
+## 功能特性
+
+### 打卡
+- 进入车站范围后，最近 3 个车站卡片化展示，标注「可打卡 / 已打卡 / 附近」
+- **页面内卡片打卡**：长条提示仅作入口，真正打卡在卡片内完成（「确认打卡 / 带图打卡」）
+- **多站同范围**：同时处于多个车站打卡半径内时，每站各出一张卡片，UI 结构完全一致；确认其中一张不会清掉其他卡片
+- **同站重复打卡**：每次打卡生成独立 `checkin_group`，历史不被覆盖
+- **带图打卡**：可现场拍摄或从图库选择 1–3 张图片，图片复制到应用私有目录
+
+### 线路与时刻表
+- 线路页按官方首末站顺序展示车站与打卡状态
+- 首末班车**按方向分条**显示，与官方时刻表原图一致（见 `docs/timetable-source/`）
+- 运营状态按当前时间动态判断：运营中 / 休息中 / 未开通
+
+### 成就系统
+- 中文成就说明、进度条、百分比、徽章
+- 状态标签颜色区分：**已解锁**（绿色）/ **未解锁**（灰蓝色）
+- 跨制式换乘联动打卡**不计入**「全制式行者」等需要真实乘坐某制式的成就判定，避免"打卡一个换乘站就解锁没坐过的线路"的误判
+
+### 其他
+- 通知提醒：进入车站范围自动发送系统通知，点击直接跳到卡片
+- 关于页：版本、构建号、权限状态、打卡半径滑杆、隐私说明、清除记录
+- 开发者测试（仅 Debug）：模拟定位、模拟打卡、状态栏消息测试
+
+---
+
+## 构建
+
+### 环境要求
+- JDK 17
+- Android SDK 35（compileSdk/targetSdk 35，minSdk 26）
+- Gradle 8.9（使用项目自带 wrapper）
+
+### 构建命令
+
+```bash
+./gradlew.bat assembleDebug
+```
+
+运行单元测试与 Lint 检查：
+
+```bash
+./gradlew.bat test assembleDebug lintDebug
+```
+
+---
+
+## 数据来源
+
+车站、线路、换乘、成就数据位于 `app/src/main/assets/`：
+- `stations.json` / `lines.json` / `transfers.json` / `line_station_order.json`
+- `achievements.json` / `poi_mapping.json`
+
+首末班车数据按 **2026 年 8 月济南轨道交通运营线路时刻表** 校对，原图见 `docs/timetable-source/`，来源文章：<https://k.sina.com.cn/article_2287707595_885ba5cb02001k4hy.html>
+
+| 线路 | 首班 | 末班 / 方向说明 |
+|---|---|---|
+| 1 号线 | 06:00 | 周一至周四至 22:00；周五至周日往工研院方向延长至 22:30 |
+| 2 号线 | 06:00 | 06:00–22:19；往王府庄方向部分车站末班 23:11 |
+| 3 号线 | 06:00 | 往机场南 22:06；往龙洞 23:10，22:00 后有大站快车 |
+| 4 号线 | 06:00 | 06:00–22:30 |
+| 6 号线东段 | 06:00 | 06:00–22:30；部分反向站点至 23:04 |
+| 8 号线 | 06:00 | 周一至周四往清源大街 22:05；周五至周日延长至 22:30 |
+| 济阳线 | 06:00 | 往济南东 06:00–20:50；往济阳北 06:30–21:00 |
+| 云巴 1 号线 | 06:00 | 内外环均 06:00–22:00 |
+
+---
+
+## 项目结构
+
+```
+QuanchenTrail/
+├── app/src/main/java/com/jnsub/quanchentrail/
+│   ├── MainActivity.java          # 主入口、定位与页面调度
+│   ├── agent/CheckinAgent.java    # 打卡判定 Agent 协议
+│   ├── data/AppDb.java            # SQLite 数据与成就判定
+│   ├── ui/                        # Fragment / Adapter / 布局逻辑
+│   └── ...
+├── app/src/main/res/layout/       # 界面布局
+├── app/src/main/assets/           # 线路、车站、成就、POI 数据
+├── docs/timetable-source/         # 时刻表原图
+├── HANDOVER.md                    # 完整技术交接文档
+└── README.md
+```
+
+---
+
+## 关键设计
+
+- **打卡入口唯一**：长条提示不可直接打卡，只能通过页面内卡片确认，避免重复弹窗
+- **换乘原子联动**：一次打卡写入多条 `checkins`，共享同一 `checkin_group`
+- **成就制式判定**：`system_types` 类成就只统计"单一制式"的打卡组，跨制式换乘分组不计入，防止误判解锁
+- **版本约束**：`versionCode = 1` / `versionName = 1.0`，请勿随意变更
+- **隐私**：定位数据仅用于本地判定车站范围，不上传服务器；图片仅记录数量与状态
+
+---
+
+## 小米澎湃 OS / HyperOS 使用提示
+
+请在系统设置中授予应用**定位权限**、**通知权限**，并将应用加入省电白名单 / 自启动白名单，否则后台定位与通知可能被系统限制。
+
+---
+
+## 许可证
+
+本项目基于 [Apache License 2.0](LICENSE) 开源。
+
+```
+Copyright 2026 ba4ihb
+```
+
+---
+
+## 致谢
+
+- 时刻表数据来源：济南轨道交通 2026 年 8 月运营线路时刻表
+- 图标与视觉：自绘"泉滴 + 轨道"标志，泉城蓝 / 泉水青视觉体系
+
+<div align="center">
+<sub>用 ❤️ 打卡济南的每一天</sub>
+</div>

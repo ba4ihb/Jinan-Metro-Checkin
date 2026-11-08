@@ -1,0 +1,326 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-06T15:10:39Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 8466367,
+  "tags": {
+    "colour": "#18469d",
+    "from": "龙洞",
+    "name": "3号线：龙洞 -> 机场南",
+    "name:zh": "3号线：龙洞 -> 机场南",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "3",
+    "route": "subway",
+    "to": "机场南",
+    "type": "route",
+    "wikidata": "Q24837836",
+    "wikipedia": "zh:济南轨道交通3号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 9461609,
+  "tags": {
+    "colour": "#b3499b",
+    "from": "工研院",
+    "name": "1号线：工研院 → 方特",
+    "name:zh": "1号线：工研院 → 方特",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "1",
+    "route": "subway",
+    "to": "方特",
+    "type": "route",
+    "via": "创新谷;园博园;大学城;紫薇路;赵营;玉符河;王府庄;大杨;济南西站",
+    "wikidata": "Q18654264",
+    "wikipedia": "zh:济南轨道交通1号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 9461610,
+  "tags": {
+    "colour": "#b3499b",
+    "from": "方特",
+    "name": "1号线：方特 → 工研院",
+    "name:zh": "1号线：方特 → 工研院",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "1",
+    "route": "subway",
+    "to": "工研院",
+    "type": "route",
+    "via": "济南西站;大杨;王府庄;玉符河;赵营;紫薇路;大学城;园博园;创新谷",
+    "wikidata": "Q18654264",
+    "wikipedia": "zh:济南轨道交通1号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 10513362,
+  "tags": {
+    "colour": "#18469d",
+    "from": "机场南",
+    "name": "3号线：机场南 -> 龙洞",
+    "name:zh": "3号线：机场南 -> 龙洞",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "3",
+    "route": "subway",
+    "to": "龙洞",
+    "type": "route",
+    "wikidata": "Q24837836",
+    "wikipedia": "zh:济南轨道交通3号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 12686483,
+  "tags": {
+    "colour": "#efa93d",
+    "from": "王府庄",
+    "from:en": "Wangfuzhuang",
+    "from:zh": "王府庄",
+    "name": "2号线：王府庄 -> 彭家庄",
+    "name:zh": "2号线：王府庄 -> 彭家庄",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "2",
+    "route": "subway",
+    "start_date": "2021-03-26",
+    "to": "彭家庄",
+    "to:en": "Pengjiazhuang",
+    "to:zh": "彭家庄",
+    "type": "route",
+    "wikidata": "Q28412021",
+    "wikipedia": "zh:济南轨道交通2号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 12686484,
+  "tags": {
+    "colour": "#efa93d",
+    "from": "彭家庄",
+    "from:en": "Pengjiazhuang",
+    "from:zh": "彭家庄",
+    "name": "2号线：彭家庄 -> 王府庄",
+    "name:zh": "2号线：彭家庄 -> 王府庄",
+    "network": "济南轨道交通",
+    "operator": "济南轨道交通集团有限公司",
+    "public_transport:version": "2",
+    "ref": "2",
+    "route": "subway",
+    "start_date": "2021-03-26",
+    "to": "王府庄",
+    "to:en": "Wangfuzhuang",
+    "to:zh": "王府庄",
+    "type": "route",
+    "wikidata": "Q28412021",
+    "wikipedia": "zh:济南轨道交通2号线"
+  }
+},
+{
+  "type": "relation",
+  "id": 20008327,
+  "tags": {
+    "colour": "#2f9248",
+    "from": "彭家庄",
+    "name": "4号线：彭家庄 → 第一医科大学",
+    "name:zh": "4号线：彭家庄 → 第一医科大学",
+    "opening_hours": "Mo-Su 08:00-22:30",
+    "public_transport:version": "2",
+    "ref": "4",
+    "route": "subway",
+    "to": "第一医科大学",
+    "type": "route",
+    "wikidata": "Q86727924"
+  }
+},
+{
+  "type": "relation",
+  "id": 20008328,
+  "tags": {
+    "colour": "#2f9248",
+    "from": "第一医科大学",
+    "name": "4号线：第一医科大学 → 彭家庄",
+    "name:zh": "4号线：第一医科大学 → 彭家庄",
+    "opening_hours": "Mo-Su 08:00-22:30",
+    "public_transport:version": "2",
+    "ref": "4",
+    "route": "subway",
+    "to": "彭家庄",
+    "type": "route",
+    "wikidata": "Q86727924"
+  }
+},
+{
+  "type": "relation",
+  "id": 20009444,
+  "tags": {
+    "colour": "#26bff0",
+    "from": "梁王",
+    "name": "6号线：梁王 -> 山东大学",
+    "name:zh": "6号线：梁王 -> 山东大学",
+    "opening_hours": "Mo-Su 06:00-22:30",
+    "public_transport:version": "2",
+    "ref": "6",
+    "route": "subway",
+    "to": "山东大学",
+    "type": "route",
+    "wikidata": "Q115054272"
+  }
+},
+{
+  "type": "relation",
+  "id": 20009445,
+  "tags": {
+    "colour": "#26bff0",
+    "from": "山东大学",
+    "name": "6号线：山东大学 -> 梁王",
+    "name:zh": "6号线：山东大学 -> 梁王",
+    "opening_hours": "Mo-Su 06:00-22:30",
+    "public_transport:version": "2",
+    "ref": "6",
+    "route": "subway",
+    "to": "梁王",
+    "type": "route",
+    "wikidata": "Q115054272"
+  }
+},
+{
+  "type": "relation",
+  "id": 20009459,
+  "tags": {
+    "colour": "#62449b",
+    "from": "邢村立交桥东",
+    "name": "8号线：邢村立交桥东 → 清源大街",
+    "name:zh": "8号线：邢村立交桥东 → 清源大街",
+    "opening_hours": "Mo-Su 06:00-22:05",
+    "public_transport:version": "2",
+    "ref": "8",
+    "route": "subway",
+    "to": "清源大街",
+    "type": "route",
+    "wikidata": "Q85776746"
+  }
+},
+{
+  "type": "relation",
+  "id": 20009461,
+  "tags": {
+    "colour": "#62449b",
+    "from": "清源大街",
+    "name": "8号线：清源大街 → 邢村立交桥东",
+    "name:zh": "8号线：清源大街 → 邢村立交桥东",
+    "opening_hours": "Mo-Su 06:00-22:05",
+    "public_transport:version": "2",
+    "ref": "8",
+    "route": "subway",
+    "to": "邢村立交桥东",
+    "type": "route",
+    "wikidata": "Q85776746"
+  }
+},
+{
+  "type": "relation",
+  "id": 20010728,
+  "tags": {
+    "colour": "#277ba2",
+    "from": "徐马",
+    "name": "云巴线：徐马 -> 春园路 -> 徐马",
+    "name:en": "inan SkyShuttle Line 1",
+    "name:zh": "云巴线：徐马 -> 春园路 -> 徐马",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "public_transport:version": "2",
+    "ref": "云巴线",
+    "route": "light_rail",
+    "to": "徐马",
+    "type": "route",
+    "via": "春园路",
+    "wikidata": "Q137259312",
+    "wikipedia": "en:Jinan SkyShuttle"
+  }
+},
+{
+  "type": "relation",
+  "id": 20010729,
+  "tags": {
+    "colour": "#277ba2",
+    "from": "徐马",
+    "name": "云巴线：徐马 -> 大正路 -> 徐马",
+    "name:en": "Jinan SkyShuttle Line 1",
+    "name:zh": "云巴线：徐马 -> 大正路 -> 徐马",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "public_transport:version": "2",
+    "ref": "云巴线",
+    "route": "light_rail",
+    "to": "徐马",
+    "type": "route",
+    "via": "大正路",
+    "wikidata": "Q137259312",
+    "wikipedia": "en:Jinan SkyShuttle"
+  }
+},
+{
+  "type": "relation",
+  "id": 20020670,
+  "tags": {
+    "colour": "#5ac4bd",
+    "from": "济南东站",
+    "name": "济阳线：济南东站 -> 济阳北",
+    "name:zh": "济阳线：济南东站 -> 济阳北",
+    "opening_hours": "Mo-Su 06:30-21:00",
+    "public_transport:version": "2",
+    "ref": "济阳线",
+    "route": "light_rail",
+    "to": "济阳北",
+    "type": "route",
+    "wikidata": "Q137617391"
+  }
+},
+{
+  "type": "relation",
+  "id": 20020671,
+  "tags": {
+    "colour": "#5ac4bd",
+    "from": "济阳北",
+    "name": "济阳线：济阳北 -> 济南东站",
+    "name:zh": "济阳线：济阳北 -> 济南东站",
+    "opening_hours": "Mo-Su 06:00-20:50",
+    "public_transport:version": "2",
+    "ref": "济阳线",
+    "route": "light_rail",
+    "to": "济南东站",
+    "type": "route",
+    "wikidata": "Q137617391"
+  }
+},
+{
+  "type": "relation",
+  "id": 21045624,
+  "tags": {
+    "colour": "#857100",
+    "name": "济南轨道交通9号线",
+    "name:en": "Jian Metro Line 9",
+    "ref": "9",
+    "route": "subway",
+    "type": "route"
+  }
+}
+
+  ]
+}

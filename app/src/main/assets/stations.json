@@ -1,0 +1,1548 @@
+[
+  {
+    "station_id": "S001",
+    "name": "龙洞",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.6178669,
+    "lng": 117.1114433,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S102",
+    "name": "清源大街",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.66781,
+    "lng": 117.4803841,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S101",
+    "name": "绣源河",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6675477,
+    "lng": 117.4660777,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S100",
+    "name": "山大龙山",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6691771,
+    "lng": 117.4465103,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S099",
+    "name": "圣井",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6703954,
+    "lng": 117.4205421,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S098",
+    "name": "黄旗山北",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6718566,
+    "lng": 117.3992165,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S097",
+    "name": "黄土崖",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6732637,
+    "lng": 117.3803368,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S096",
+    "name": "山财章丘校区",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6741194,
+    "lng": 117.3685014,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S095",
+    "name": "山东现代学院",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6758048,
+    "lng": 117.3461629,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S094",
+    "name": "山东职业学院",
+    "lines": [
+      "8",
+      "云巴1号线"
+    ],
+    "lat": 36.6743356,
+    "lng": 117.3192434,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S093",
+    "name": "春博路",
+    "lines": [
+      "8",
+      "云巴1号线"
+    ],
+    "lat": 36.6691026,
+    "lng": 117.3008982,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S092",
+    "name": "公路技师学院",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6616384,
+    "lng": 117.2779856,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S091",
+    "name": "超算中心",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6612333,
+    "lng": 117.2572323,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S090",
+    "name": "青年政治学院",
+    "lines": [
+      "8"
+    ],
+    "lat": 36.6685518,
+    "lng": 117.2347993,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S089",
+    "name": "梁王",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.7469478,
+    "lng": 117.1843432,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S088",
+    "name": "梁王西",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.7470369,
+    "lng": 117.1706191,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S087",
+    "name": "响泉街",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.7346242,
+    "lng": 117.1397588,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S086",
+    "name": "王舍人立交桥",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.7216908,
+    "lng": 117.1401762,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S072",
+    "name": "腊山河公园",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6508437,
+    "lng": 116.8986865,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S073",
+    "name": "济南西站西广场",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.668406,
+    "lng": 116.8833336,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S074",
+    "name": "春风悦动公园",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6796047,
+    "lng": 116.8771079,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S075",
+    "name": "第一医科大学",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6759708,
+    "lng": 116.8647564,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S076",
+    "name": "山东大学",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6714275,
+    "lng": 117.0510713,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S077",
+    "name": "山大南路东口",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6713482,
+    "lng": 117.0684496,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S103",
+    "name": "徐马",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6935412,
+    "lng": 117.3292244,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S078",
+    "name": "七里河路南口",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6720167,
+    "lng": 117.0750849,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S080",
+    "name": "中央商务区",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6680003,
+    "lng": 117.0964265,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S081",
+    "name": "天泺路",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6689529,
+    "lng": 117.1126162,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S082",
+    "name": "齐鲁软件园",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6757062,
+    "lng": 117.1268195,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S083",
+    "name": "开拓路",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.680211,
+    "lng": 117.1361495,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S084",
+    "name": "世纪大道",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6881447,
+    "lng": 117.1419733,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S085",
+    "name": "徐家庄",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6982217,
+    "lng": 117.1411149,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S079",
+    "name": "茂陵山",
+    "lines": [
+      "6"
+    ],
+    "lat": 36.6680418,
+    "lng": 117.0886588,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S071",
+    "name": "段店",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6508226,
+    "lng": 116.9347054,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S104",
+    "name": "春园路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6843085,
+    "lng": 117.3318271,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S106",
+    "name": "庄科",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6646543,
+    "lng": 117.3175138,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S137",
+    "name": "济北小学",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.967808,
+    "lng": 117.1691506,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S136",
+    "name": "新元学校",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.9592814,
+    "lng": 117.1693276,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S135",
+    "name": "回河",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.9331825,
+    "lng": 117.1142211,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S134",
+    "name": "花二庄北街",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.8773139,
+    "lng": 117.1098442,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S133",
+    "name": "清宁",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.8647484,
+    "lng": 117.10875,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S132",
+    "name": "英才学院北校区",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.854782,
+    "lng": 117.1077485,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S131",
+    "name": "黄河会展中心",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.8337444,
+    "lng": 117.1057445,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S130",
+    "name": "崔寨",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.8279125,
+    "lng": 117.1029487,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S129",
+    "name": "大正路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6937011,
+    "lng": 117.3242727,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S128",
+    "name": "西巨野河",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6940527,
+    "lng": 117.3099923,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S127",
+    "name": "高新一中",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6947286,
+    "lng": 117.3004272,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S126",
+    "name": "高新实验中学",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6947525,
+    "lng": 117.2920406,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S125",
+    "name": "春晖路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6947835,
+    "lng": 117.2855024,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S124",
+    "name": "世纪大道春喧路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6948208,
+    "lng": 117.2674778,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S123",
+    "name": "科远路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.703436,
+    "lng": 117.2643515,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S122",
+    "name": "武将山东",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.7089238,
+    "lng": 117.2626146,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S121",
+    "name": "武家庄",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.7094096,
+    "lng": 117.2478314,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S107",
+    "name": "春景路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6584382,
+    "lng": 117.3117407,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S108",
+    "name": "科创城",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6620269,
+    "lng": 117.3048452,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S109",
+    "name": "孙村",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6784018,
+    "lng": 117.3005597,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S110",
+    "name": "彩虹湖东",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6787008,
+    "lng": 117.2941855,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S111",
+    "name": "彩虹湖",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6778074,
+    "lng": 117.2878798,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S112",
+    "name": "春意路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6770282,
+    "lng": 117.2753898,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S105",
+    "name": "市妇幼东院",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6827135,
+    "lng": 117.3240859,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S113",
+    "name": "春暄路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6772989,
+    "lng": 117.2668035,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S115",
+    "name": "科航路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6872036,
+    "lng": 117.2576921,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S116",
+    "name": "春秀路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6940544,
+    "lng": 117.2520936,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S117",
+    "name": "唐宣路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6892807,
+    "lng": 117.2311213,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S118",
+    "name": "历城文博中心",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.689356,
+    "lng": 117.2265203,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S119",
+    "name": "贞观街",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6962683,
+    "lng": 117.2223065,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S120",
+    "name": "唐冶东路",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.7086323,
+    "lng": 117.2315106,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S114",
+    "name": "沙沟",
+    "lines": [
+      "云巴1号线"
+    ],
+    "lat": 36.6792798,
+    "lng": 117.2602224,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S138",
+    "name": "济阳市民中心",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 36.9794022,
+    "lng": 117.1692978,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S070",
+    "name": "营市街",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6487692,
+    "lng": 116.9558026,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S068",
+    "name": "五里牌坊",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6483156,
+    "lng": 116.9763735,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S032",
+    "name": "二环西路",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6631695,
+    "lng": 116.9261257,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S031",
+    "name": "腊山",
+    "lines": [
+      "2",
+      "4"
+    ],
+    "lat": 36.6520479,
+    "lng": 116.9144782,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S030",
+    "name": "腊山南",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6249389,
+    "lng": 116.897063,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S029",
+    "name": "方特",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.6821328,
+    "lng": 116.8894993,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S028",
+    "name": "济南西站",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.6689963,
+    "lng": 116.8885313,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S027",
+    "name": "大杨",
+    "lines": [
+      "1",
+      "4"
+    ],
+    "lat": 36.6515555,
+    "lng": 116.8899538,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S026",
+    "name": "王府庄",
+    "lines": [
+      "1",
+      "2"
+    ],
+    "lat": 36.6234654,
+    "lng": 116.8759014,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S025",
+    "name": "玉符河",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.609853,
+    "lng": 116.8520314,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S024",
+    "name": "赵营",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.5905518,
+    "lng": 116.8290133,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S023",
+    "name": "紫薇路",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.5685396,
+    "lng": 116.8045157,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S022",
+    "name": "大学城",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.5520731,
+    "lng": 116.7981208,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S021",
+    "name": "园博园",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.5357739,
+    "lng": 116.7942896,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S020",
+    "name": "创新谷",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.5101718,
+    "lng": 116.7993037,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S019",
+    "name": "工研院",
+    "lines": [
+      "1"
+    ],
+    "lat": 36.4982957,
+    "lng": 116.7895528,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S018",
+    "name": "机场南",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.8507573,
+    "lng": 117.204727,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S017",
+    "name": "临空",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.8287984,
+    "lng": 117.2039079,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S016",
+    "name": "临港北路",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.7992503,
+    "lng": 117.2013566,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S002",
+    "name": "孟家庄",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.6329749,
+    "lng": 117.1139873,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S003",
+    "name": "龙奥大厦",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.6505242,
+    "lng": 117.1082238,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S004",
+    "name": "奥体中心",
+    "lines": [
+      "3",
+      "4"
+    ],
+    "lat": 36.6592302,
+    "lng": 117.1058934,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S005",
+    "name": "安成街",
+    "lines": [
+      "3",
+      "6"
+    ],
+    "lat": 36.6680928,
+    "lng": 117.1044866,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S006",
+    "name": "丁家庄",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.6772626,
+    "lng": 117.1036632,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S007",
+    "name": "花园东路",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.6915319,
+    "lng": 117.100417,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S033",
+    "name": "老屯",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.665112,
+    "lng": 116.9465865,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S008",
+    "name": "八涧堡",
+    "lines": [
+      "2",
+      "3"
+    ],
+    "lat": 36.7050729,
+    "lng": 117.0973602,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S010",
+    "name": "王舍人",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.7197315,
+    "lng": 117.132234,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S011",
+    "name": "裴家营",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.7341681,
+    "lng": 117.1532893,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S012",
+    "name": "济南东站",
+    "lines": [
+      "3",
+      "6",
+      "济阳线"
+    ],
+    "lat": 36.7459301,
+    "lng": 117.1532825,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S013",
+    "name": "滩头",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.7664441,
+    "lng": 117.1593201,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S014",
+    "name": "曲家庄",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.7682327,
+    "lng": 117.1720296,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S015",
+    "name": "川流",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.775019,
+    "lng": 117.1878312,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S009",
+    "name": "张马屯",
+    "lines": [
+      "3"
+    ],
+    "lat": 36.7181627,
+    "lng": 117.108378,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S069",
+    "name": "南辛庄",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6483238,
+    "lng": 116.9664762,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S034",
+    "name": "八里桥",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6702645,
+    "lng": 116.9567993,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S036",
+    "name": "济南站北",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6767316,
+    "lng": 116.9795294,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S067",
+    "name": "八一立交桥",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6485605,
+    "lng": 116.9935981,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S066",
+    "name": "省体育中心",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6479542,
+    "lng": 117.0058744,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S065",
+    "name": "泉城公园",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6478983,
+    "lng": 117.0142333,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S064",
+    "name": "千佛山",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6478488,
+    "lng": 117.0285799,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S063",
+    "name": "山师东路",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6481017,
+    "lng": 117.0407048,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S062",
+    "name": "山大路南口",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6485691,
+    "lng": 117.0503251,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S061",
+    "name": "燕山立交桥",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6519723,
+    "lng": 117.0719834,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S060",
+    "name": "浆水泉路",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6521972,
+    "lng": 117.0800199,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S059",
+    "name": "山东博物馆",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6552717,
+    "lng": 117.0874039,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S058",
+    "name": "转山西路（万象城）",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6573974,
+    "lng": 117.0949119,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S057",
+    "name": "奥体东路",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6588237,
+    "lng": 117.1219159,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S056",
+    "name": "舜泰广场",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6609815,
+    "lng": 117.1384201,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S055",
+    "name": "汉峪金谷",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6628418,
+    "lng": 117.143829,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S054",
+    "name": "林家庄",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6682879,
+    "lng": 117.1597933,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S053",
+    "name": "黄金产业园",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.669711,
+    "lng": 117.1740676,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S052",
+    "name": "文旅城",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6717245,
+    "lng": 117.1881582,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S051",
+    "name": "邢村立交桥西",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6735391,
+    "lng": 117.1970952,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S037",
+    "name": "济泺路",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6841934,
+    "lng": 116.988306,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S038",
+    "name": "生产路",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6841776,
+    "lng": 117.0108318,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S039",
+    "name": "北园",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6859599,
+    "lng": 117.0286233,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S040",
+    "name": "历山路",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6885057,
+    "lng": 117.0362326,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S041",
+    "name": "七里堡",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6901806,
+    "lng": 117.0614813,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S042",
+    "name": "祝甸",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6969237,
+    "lng": 117.0762424,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S035",
+    "name": "益康路",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.6733161,
+    "lng": 116.9671209,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S043",
+    "name": "姜家庄",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.7059011,
+    "lng": 117.1213737,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S045",
+    "name": "鲍山",
+    "lines": [
+      "2"
+    ],
+    "lat": 36.7088506,
+    "lng": 117.1818897,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S046",
+    "name": "彭家庄",
+    "lines": [
+      "1",
+      "2",
+      "4",
+      "云巴1号线"
+    ],
+    "lat": 36.709124,
+    "lng": 117.2235875,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S047",
+    "name": "历城二中唐冶校区",
+    "lines": [
+      "4",
+      "云巴1号线"
+    ],
+    "lat": 36.7027618,
+    "lng": 117.223206,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S048",
+    "name": "唐冶",
+    "lines": [
+      "4",
+      "云巴1号线"
+    ],
+    "lat": 36.6896304,
+    "lng": 117.2211501,
+    "system_type": "yunba",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S049",
+    "name": "唐冶公园",
+    "lines": [
+      "4"
+    ],
+    "lat": 36.6795367,
+    "lng": 117.2206507,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S050",
+    "name": "邢村立交桥东",
+    "lines": [
+      "4",
+      "8"
+    ],
+    "lat": 36.671599,
+    "lng": 117.2121934,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S044",
+    "name": "凤凰北路",
+    "lines": [
+      "2",
+      "6"
+    ],
+    "lat": 36.7076372,
+    "lng": 117.139913,
+    "system_type": "metro",
+    "operational_status": "active"
+  },
+  {
+    "station_id": "S139",
+    "name": "济阳北",
+    "lines": [
+      "济阳线"
+    ],
+    "lat": 37.0042092,
+    "lng": 117.1695657,
+    "system_type": "jiyang",
+    "operational_status": "active"
+  }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_nav_home"
+        android:title="@string/tab_home" />
+    <item
+        android:id="@+id/nav_lines"
+        android:icon="@drawable/ic_nav_lines"
+        android:title="@string/tab_lines" />
+    <item
+        android:id="@+id/nav_achievements"
+        android:icon="@drawable/ic_nav_achievement"
+        android:title="@string/tab_achievements" />
+    <item
+        android:id="@+id/nav_records"
+        android:icon="@drawable/ic_nav_records"
+        android:title="@string/tab_records" />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/ic_nav_about"
+        android:title="@string/tab_about" />
+</menu>
